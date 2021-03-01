@@ -2,7 +2,7 @@
 
 > An autocompleter for code editors based on [OpenAI GPT-2](https://github.com/openai/gpt-2).
 
-### 🏠 [Homepage](https://ivolution.io)
+### 🏠 [Homepage](https://ivolution.ai/)
 
 **Ivolution** is an auto code completer for code editors (or any text editor) based on [OpenAI GPT-2](https://github.com/openai/gpt-2). It is trained (finetuned) on a curated list of approximately 45K Python (~470MB) files gathered from the Github. Currently, it just works properly on Python but not bad at other languages (thanks to GPT-2's power).
 
