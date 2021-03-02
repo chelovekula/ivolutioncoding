@@ -86,7 +86,7 @@ Even you can finetune (re-train over) the model with/for your code files. Just f
 
 Использовать [DeepSpeed](https://github.com/microsoft/DeepSpeedgithub.com/microsoft/DeepSpeed) для FineTuning модели.
 
-В качестве основы по использованию и файнтюнигу модели можно использовать готовый плейграунд с коллаба https://colab.research.google.com/drive/1VYLdWyX6z0AuOdyBZbylogiweHPGbOBD#scrollTo=I7TAeZbRrYzFhttps://colab.research.google.com/drive/1VYLdWyX6z0AuOdyBZbylogiweHPGbOBD#scrollTo=I7TAeZbRrYzF
+В качестве основы по использованию и файнтюнигу модели можно использовать готовый плейграунд с коллаба https://colab.research.google.com/drive/1VYLdWyX6z0AuOdyBZbylogiweHPGbOBD#scrollTo=I7TAeZbRrYzF
 
 Нужно подготовить датасет для FineTuning модели [ruGPT3](https://github.com/sberbank-ai/ru-gpts) . Объем датасета должен соответсвовать выбранной модели (ruGPT3_large) и давать релевантные подскази при написании базовых конструкций кода (базовые циклы while\for, промисы и тп) - примерный объем датасета при условии что его качество при подборе соответствует оссобеностям энкодера - 400мб
 
